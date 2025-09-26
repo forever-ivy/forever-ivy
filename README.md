@@ -7,8 +7,8 @@
 
 ---
 
-- 🌱 I’m currently diving deep into **PERN Stack**, `Supabase`, `tRPC`, `Drizzle ORM`
-- 🔭 Working on a **Emotion Contaniner Web** with Three.js
+- 🌱 I’m currently diving deep into `React`, `Vite`, `R3F`, `Typescript`
+- 🔭 Working on a **Personal Blog** with Three.js
 - 🌠 I use code to turn dreams into functions
 - 🎯 Goal for 2025: Become a full-stack wizard 👩‍💻✨
 
